@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ## 🔗 Live Dashboard
-[Click here to view the interactive dashboard](https://shorturl.at/sVYgh)
+[Click here to view the interactive dashboard](https://shorturl.at/mGb3W)
 
 ---
 
