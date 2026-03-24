@@ -1,4 +1,4 @@
-# Australia's Housing Supply Crisis — Will We Hit 1.2 Million by 2029?
+# Australia's Housing Supply Crisis - Will We Hit 1.2 Million by 2029?
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Data](https://img.shields.io/badge/Data-ABS%20%7C%20RBA-blue)
