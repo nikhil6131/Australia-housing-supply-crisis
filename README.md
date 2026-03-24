@@ -121,7 +121,7 @@ the real shortfall likely exceeds 342,210 homes.
 
 **Nikhil Chhetri** | Aspiring Data Analyst | Melbourne, Australia
 
-[LinkedIn](https://www.linkedin.com/in/nikhilchhetrianalytics/) · [Live Dashboard](https://shorturl.at/sVYgh)
+[LinkedIn](https://www.linkedin.com/in/nikhilchhetrianalytics/) · [Live Dashboard](https://shorturl.at/mGb3))
 
 ---
 
